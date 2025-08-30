@@ -1,4 +1,4 @@
-# Pantalla-Verde-E-commerce AI Service
+# E-commerce Real-time inventory tracking  
 
 An AI-powered e-commerce assistant service that provides intelligent product suggestions and conversational support with real-time inventory tracking.
 
